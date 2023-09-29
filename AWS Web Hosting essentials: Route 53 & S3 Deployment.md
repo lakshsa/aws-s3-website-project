@@ -1,8 +1,20 @@
-#Step 1 : Designing a Website for Hosting
 
-In this initial step, we focus on crafting a website that is ready for hosting on AWS. You have two options: either design a personalized website from scratch, tailoring it to your preferences and needs, or expedite the process by selecting an existing template.
+In this project, I delved into the fundamental aspects of AWS Web Hosting, focusing specifically on Route 53 and S3 Deployment. Here's a step-by-step walkthrough of what I accomplished:
 
-If you opt for the latter, you can explore a variety of free templates available at free-css.com. These templates serve as a great starting point, allowing you to modify and customize them to suit your specific requirements.
+1. Domain Acquisition:
+Started by obtaining a custom domain to establish a distinct online presence.
 
-Remember, the goal is to create a website that you'll later host using Amazon S3 and connect with a custom domain through Amazon Route 53.
+2. Website Creation:
+Designed and developed a website tailored to the desired content and functionalities.
 
+3. S3 Bucket Hosting:
+Hosted the website by creating and configuring S3 buckets, utilizing AWS's powerful static hosting capabilities.
+
+4. Content Deployment:
+Uploaded the website files to the designated S3 bucket, ensuring a seamless deployment process.
+
+5. Public Accessibility:
+Configured the S3 bucket to allow public access, enabling visitors to view the website content.
+
+6. Route 53 Integration:
+Leveraged Amazon Route 53 to establish both root and sub-domains, effectively directing traffic to the designated domain name for an optimal user experience.
