@@ -18,3 +18,7 @@ Configured the S3 bucket to allow public access, enabling visitors to view the w
 
 6. Route 53 Integration:
 Leveraged Amazon Route 53 to establish both root and sub-domains, effectively directing traffic to the designated domain name for an optimal user experience.
+
+Explore the project: www.korc.cloud
+
+
