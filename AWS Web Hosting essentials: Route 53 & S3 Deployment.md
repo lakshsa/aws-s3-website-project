@@ -1,4 +1,4 @@
-Step 1 : Designing a Website for Hosting
+#Step 1 : Designing a Website for Hosting
 
 In this initial step, we focus on crafting a website that is ready for hosting on AWS. You have two options: either design a personalized website from scratch, tailoring it to your preferences and needs, or expedite the process by selecting an existing template.
 
